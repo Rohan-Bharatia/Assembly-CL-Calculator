@@ -1,0 +1,36 @@
+{
+    "workbench.colorTheme": "Hacker Red",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner",
+        "workbench.action.tasks.runTask"
+    ],
+    "cmake.options.advanced": {
+        "build": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        },
+        "launch": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        },
+        "debug": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        }
+    },
+    "cmake.enabledOutputParsers": [
+        "cmake",
+        "gcc",
+        "gnuld",
+        "msvc",
+        "ghs",
+        "diab",
+        "gcc"
+    ],
+    "cmake.options.statusBarVisibility": "visible",
+    "files.associations": {
+        "*.asm": "nasm"
+    },
+}
