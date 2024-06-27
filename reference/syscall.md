@@ -1,4 +1,4 @@
-# Syscall Table
+# Win64/Linux Syscall Table
 | %rax (eax) | System call  | %rdi (edi)       | %rsi (esi)      | %rdx (edx)   | %r10 | %r8 | %r9 |
 |------------|--------------|------------------|-----------------|--------------|------|-----|-----|
 |   0        | sys_read     | uint fd          | char* buf       | size_t count |      |     |     |
