@@ -1,1 +1,25 @@
+# Ignore object files
+*.o
+*.obj
+
+# Ignore executable files
 out/
+
+# Ignore listing files
+*.lst
+
+# Ignore map files
+*.map
+
+# Ignore debug files
+*.pdb
+*.dSYM
+*.dbg
+
+# Ignore other intermediate files
+*.tmp
+*.temp
+*.~*
+
+# VSCode
+.vscode/
